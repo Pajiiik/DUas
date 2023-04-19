@@ -1,0 +1,10 @@
+C:\Users\stulhoferp.04\Vyjimky2\Vyjimky2\bin\Debug\Vyjimky2.exe.config
+C:\Users\stulhoferp.04\Vyjimky2\Vyjimky2\bin\Debug\Vyjimky2.exe
+C:\Users\stulhoferp.04\Vyjimky2\Vyjimky2\bin\Debug\Vyjimky2.pdb
+C:\Users\stulhoferp.04\Vyjimky2\Vyjimky2\obj\Debug\Vyjimky2.csprojAssemblyReference.cache
+C:\Users\stulhoferp.04\Vyjimky2\Vyjimky2\obj\Debug\Vyjimky2.Form1.resources
+C:\Users\stulhoferp.04\Vyjimky2\Vyjimky2\obj\Debug\Vyjimky2.Properties.Resources.resources
+C:\Users\stulhoferp.04\Vyjimky2\Vyjimky2\obj\Debug\Vyjimky2.csproj.GenerateResource.cache
+C:\Users\stulhoferp.04\Vyjimky2\Vyjimky2\obj\Debug\Vyjimky2.csproj.CoreCompileInputs.cache
+C:\Users\stulhoferp.04\Vyjimky2\Vyjimky2\obj\Debug\Vyjimky2.exe
+C:\Users\stulhoferp.04\Vyjimky2\Vyjimky2\obj\Debug\Vyjimky2.pdb
